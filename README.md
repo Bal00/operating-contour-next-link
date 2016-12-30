@@ -7,6 +7,6 @@ The Contour Next Link 2.4 is operated using micro-relays soldered in parallel wi
 
 Top level demo is Test_CNL24.py. Specific pin allocation is set in the CNLIO class in CNLIO-Pi.py, code is to suit configuration shown in circuit diagram below.
 
-![circuit_pi](https://cloud.githubusercontent.com/assets/16906631/21573687/58c4e0f2-cedf-11e6-8687-3777d9f36193.png)
+![circuit_pi](https://cloud.githubusercontent.com/assets/16906631/21573850/7e78f8d6-cee1-11e6-8e2d-c609f038866b.png)
 
 Typical solid state micro-relay: https://github.com/Bal00/operating-contour-next-link/files/679303/0900766b8131432d.pdf
